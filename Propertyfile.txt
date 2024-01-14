@@ -2,9 +2,7 @@ qwerty
 
 a
 b
-c
-d
-e
+Z
 f
 g
 h
